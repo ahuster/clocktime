@@ -19,8 +19,8 @@
 // SET YOUR TIMEZONE HERE
 static const char ourtz[] = "America/Detroit";
 // SET YOUR WIFI SSID AND PASSWORD HERE
-static const char ssid[] = "Kilobyte";
-static const char wifipw[] = "ytterby1";
+static const char ssid[] = "ssid";
+static const char wifipw[] = "wifipw";
 // Set this to false to not blink the colon every second
 static const bool blinkcolon = true;
 
